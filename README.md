@@ -1,5 +1,5 @@
 # gPb-Contour-Detection
-This repository provides source code and guidance to implement gPb Contour Detection on UAV data as described in:
+This repository provides a documentation (1) and scripts (2) to implement gPb Contour Detection on UAV data as described in the following publication:
 
 Crommelinck, S.; Bennett, R.; Gerke, M.; Yang, M.; Vosselman, G. Contour detection for UAV-based cadastral mapping. Remote Sensing 2017, 9, 1-13. 
 
