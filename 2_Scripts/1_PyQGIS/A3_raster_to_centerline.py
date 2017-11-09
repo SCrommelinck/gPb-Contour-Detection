@@ -21,7 +21,7 @@ reload(A1_raster_to_centerline)
 
 ### Predefine variables ###
 
-gPb = r"D:\..>\gPb_directory"
+gPb = r"D:\..>\path_to_gPb_raster_file"
 
 data_dir= r"D:\..>\data_directory"
 
