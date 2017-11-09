@@ -13,10 +13,10 @@ import sys
 sys.path.append(r"D:\...\directory_of_script")
 
 #import own module
-import A1_raster_to_centerline
+import A3_raster_to_centerline
 
 #another run after changing the source code
-reload(A1_raster_to_centerline)
+reload(A3_raster_to_centerline)
 """
 
 ### Predefine variables ###
